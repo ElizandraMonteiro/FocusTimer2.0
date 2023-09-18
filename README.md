@@ -59,6 +59,6 @@ O desafio foi proposto no curso Explorer da Rocketseat. A ideia é aplicar o que
 <p align="center">Feito por: <strong>Elizandra Monteiro</strong></p>
 
 <p align="center"><a 
-href="https://ElizandraMonteiro.github.io/FocusTimer-2.0/">
+href="https://github.com/ElizandraMonteiro/FocusTimer2.0.git">
 <strong>Visite o projeto online</strong>
 </a></p>
